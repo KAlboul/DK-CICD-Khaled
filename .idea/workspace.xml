@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93f712f2-7baf-4882-abab-7a3125601840" name="Changes" comment="" />
+    <list default="true" id="93f712f2-7baf-4882-abab-7a3125601840" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apigee-cicd-master/DK-CICD-Khaled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigee-cicd-master/DK-CICD-Khaled/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
       <updated>1650184838035</updated>
       <workItem from="1650184842407" duration="1575000" />
       <workItem from="1650189868631" duration="128000" />
+      <workItem from="1650190002796" duration="434000" />
     </task>
     <servers />
   </component>
