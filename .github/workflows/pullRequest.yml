@@ -9,7 +9,7 @@ on:
 
 env:
   ProxyName: ${{ github.event.repository.name }}
-  #ProxyName: NoTargetProxy
+  #ProxyName: DK-CICD-Khaled
   
 jobs:
 

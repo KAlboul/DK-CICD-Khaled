@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   
 env:
-  ProxyName: NoTargetProxy
+  ProxyName: DK-CICD-Khaled
   ORG: maf-holding
   ENV: sandbox
   machine_apigeeUsername: ${{ secrets.machine_apigeeUsername }}
